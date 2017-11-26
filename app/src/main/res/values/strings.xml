@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConnectThree</string>
+    <string name="gridimage">gridimage</string>
+    <string name="gold">gold</string>
+    <string name="play_again">Play again</string>
+    <string name="winner_is">Winner is</string>
+    <string name="connectthree">Tic Tac Toe</string>
+    <string name="appname">Plus^Minus</string>
+</resources>
